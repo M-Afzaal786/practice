@@ -6,6 +6,7 @@ Strict 8px grid, WCAG AA contrast compliance (>= 4.5:1), and legacy compatibilit
 """
 from __future__ import annotations
 import os
+import markdown 
 import sys
 import ctypes
 from typing import Dict, Any, List, Tuple, Optional
